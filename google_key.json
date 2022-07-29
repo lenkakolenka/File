@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "braided-period-357810",
+  "private_key_id": "50875261000fabcd1ae6ba531828fe89db1803f9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwIzMrPkIQbGwy\ntdqNXa19OhsCnDSZjyVzTNHMY/DbBwkeZTHYs7HIlgBlpLj32kdxpZVMo1261aSn\nzc+8GEOdB4rFkR8tJRAoKA7D3wvXTxmyTXs5iHTiC9ORJGAC6+wuN+XhSz/GUN4d\nEr2rU+VclGjbpYW0o2cZO0ByfuSLPENFRlPhV7Pbny1SHAsJ5iYdEOISAdkq6Ghn\nCa5HoBSL3b2wyFWPAPtnxlLWDVA1Wa6i35XBUrAc4ukaPbgeVpLcg20F4s6BYsBd\nP26hBkHhDDPBVCOu5aAnA9hkxjGYzLfldElE+9YQ1MbCaG9stC3j7ohw7Jlf6ckV\nL68u5m5/AgMBAAECggEAF1XKgSeh5AAhQ4ShPEpVYjpQ+sMMGu4Chah/QQdakQH5\nHMxGUtHXs13gFpdApCGIho9r3LfmAossYcjcBSznxEWMBomn6ji3T8Ki1iNWM8O4\ngU1Pjns8FPiBIoEBsVFlPGhObc8k11a+XnatpyWZxO6qh7MBqEFfttGJQ8H48FMm\nvxT1UPOrsLIBNbaGsyi6X8DJFuoSPFaG+TznNVE+Hm8KB5pznlEZAhE1NkdDy04p\nUlzMm7xKkUSmvAiPNJxt+/KEMmnnnS5/JnBmTpudbyQoXSI+bKshVGcBZVj4MwNY\noF5P1l9scLPulber4nUDDO4kyilzTZ1CGkfnwtkqNQKBgQDcKDQN9Z0pTNz90fXr\nnzUHTStx9IRUiExEQDa5NCabQp0j+suJcXvLHV4AJh0hvgZeXBxDmlsIJXbK2HuD\nrmxkwl13VVx+nQ6yfFJm7Ov22w1wE6sL/J3gYPzw0IL86uL0oxMjP9KPJF6dDdF/\n2HCTcus3aetKg0Im0OZkBo5gBQKBgQDM0FTpTDAbXEZxBg+dIjTEok7wP9XKYjj5\nr58Yc3pQ4xVkT2GzqifJXqv7XnkTi2umPPDnquYxOvNKTSkVk5ZO79Z+lq2sVpt8\nUKgDnqPlfFQyIkERtq/FVJcAdChjXmRPs+0t9fgO2uC2Nbl9IYNZSD6pmtVzZDVc\nIvBhrSUPswKBgH1MOEwVlKuzvjaLL445XyHXrrk9c670n4tcjIidgLdukyauDvcb\nalwwS5aEGqJglxlPDRsAl3ysbc6GpM1OEQzLfgxzvZ+l3X6BuRgxER6+jwhReVDq\nJiRUrsCTu2kceazHvxWZtkmXZm22NpyvX2rbxbkVBD+1MooK7ITTImbNAoGBAJUt\n/Vr8cmHLYUd7qa3DN3ot2p9lb5v81REQmSofGm2GKZOpujk568bhnRT3Z+sTdvJb\nmwCy2v3quUBaWV1s5WNTkAEeURug7ZmryeTxDOHfIBhwGMMFNJvflCjxcmWGYDwp\nis0aRnbTeC9fjF6XJWvHklTJAUYOLEuS61HJ4p+/AoGASbiJoFyjGJAoTUHxN7Yq\nuDWPLEJAgS+9iBtqsiwTT1KVOrYPwAIqYs5XpstB+eEiziwbjYXGFtg2quLQKk0i\nRHlGZ+tc8zUKJ/6xp3MJk1v0zNSrvphKFWvbmCV7HmFOCtgRHxragfTC4k/XABYm\n69z82Z97joTZ26CS6CyQna8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "science@braided-period-357810.iam.gserviceaccount.com",
+  "client_id": "117390181043734013830",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/science%40braided-period-357810.iam.gserviceaccount.com"
+}
